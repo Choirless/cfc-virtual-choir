@@ -39,6 +39,7 @@ Community - The film "Military Wives" (https://www.imdb.com/title/tt8951692/) is
 1) Rudimentary editing controls for choir leader allowing them to highlight soloists etc.
 2) "Personalised" versions of the concert in which certain participant is highlighted more frequently 
 3) Auto-tune, and/or Guitar-hero-style warnings about being out of tune 
+4) Handling multiple 'parts' e.g. Tenor, Bass or rounds, soloists, etc.
 
 
 ## Technical elements:
