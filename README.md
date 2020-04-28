@@ -45,6 +45,20 @@ Community - The film "Military Wives" (https://www.imdb.com/title/tt8951692/) is
 
 ## Similar ideas
 
+### Freedonia Symphonic Band Virtual Concert
+
 This is a manual attempt doing the same with a school symphony band
 
+![Freedonia Symphonic Band Virtual Concert](/doc_images/Freedonia-Symphonic-Band.png)
+
 https://youtu.be/f-b4HJ04OdQ
+
+### Eric Whitacre's Virtual Choir
+
+This is a high-production art installation in which a mass virtual choir has been created. Again, this is 
+manually stiched together and produced
+
+![Eric Whitacre's Virtual Choir](/doc_images/Eric-Whittacre-Virtual-Choir.png)
+
+https://ericwhitacre.com/the-virtual-choir
+
