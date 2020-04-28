@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=7xltB716aO4
 ## Concept:
 A tool that will allow the pupils to perform a "concert' of the school song together, despite all being at home in isolation. This would be a hosted tool, a SchoolRemoteChoir-aaS if you will, that would allow any school (or community choir) to sing together.
 
+The production will be mostly automated, and use machine learning to stich and composite all the audio and video input into
+a single production. This should be usable by a school music teacher without any specific skills in video/audio editing or production.
 
 ## Inspirations:
 Technology - TikTok duets allow people to remotely "duet" with other existing videos. One person sings/mimes/dances one part, and someone else then asynchronously does the second part. They are then merged together on the backend.
