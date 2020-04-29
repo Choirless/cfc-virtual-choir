@@ -12,4 +12,5 @@
 
 - MediaRecorder API \
   Can record locally then process, so no issue with latency \
+  Not available for Safari iOS or MSIE? \
   https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
